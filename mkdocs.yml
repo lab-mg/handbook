@@ -101,7 +101,5 @@ plugins:
       enable_creation_date: true
       type: datetime
       enable_creation_date: true
-  - tags:
-      tags_file: posts/20221213_tags.md
   - search:
       lang: pt
