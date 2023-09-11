@@ -34,7 +34,7 @@
     - Gostaria de acompanhar o processo do início ao fim.
     - Qual ganho esperado ao final da automatização do mesmo?
 
-## Idéias
+## Ideias
 
 - Criar datapackage para alimentar processos automatizados e os ganhos (antes e depois).
 
