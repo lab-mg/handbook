@@ -30,7 +30,7 @@
     - Slide 4 mostra que a planilha é enviada para outros setores. Quais setores e quais são as análises feitas por eles?
     - Existe algum dado sensível neste relatório que não pode ser divulgado?
     - O que é DCAE (Slide 11)?
-    - Quanto tempo é gsto com esta atividade mensalmente (estimativa)?
+    - Quanto tempo é gasto com esta atividade mensalmente (estimativa)?
     - Gostaria de acompanhar o processo do início ao fim.
     - Qual ganho esperado ao final da automatização do mesmo?
 
