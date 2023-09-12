@@ -13,6 +13,8 @@ theme:
   features:
     # - announce.dismiss
     - content.code.annotate
+    - navigation.tabs
+    - navigation.tabs.sticky
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
@@ -21,8 +23,6 @@ theme:
     # - navigation.instant
     # - navigation.prune
     - navigation.sections
-    - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
