@@ -2,14 +2,15 @@
 
 **Data:** 11/09/2023
 
-## Participantes:
+## Pauta
+- Apresentação processo Mapa de Transformação
 
+## Participantes:
 - Augusta Cora
 - Banes
 - Gabriel
 
 ## Assuntos tratados
-
 - Apresentação do trabalho de análise no documento Mapa de transformação.
     - Necessário para avaliar o sucesso de nossas ações.
     - Avalidar as mudanças incluídas no Portal MG (Diretoria de Canais Digitais).
@@ -22,7 +23,6 @@
     - Necessidade de estruturação e não duplicar trabalho AGEIS.
 
 ## Dúvidas
-
 - Dúvidas Gabriel após leitura do documento de análise mensal dos serviços Portal MG:
     - Quem dá manutenção no Portal MG?
     - Por que acesso ao relatório é feito apenas na CAMG?
@@ -35,11 +35,9 @@
     - Qual ganho esperado ao final da automatização do mesmo?
 
 ## Ideias
-
 - Criar datapackage para alimentar processos automatizados e os ganhos (antes e depois).
 
-## Pendências
-
+## Ações
 - Demonstração Portal MG.
 - Demonstração Planner.
 - Criação e-mail corportivo Gabriel.

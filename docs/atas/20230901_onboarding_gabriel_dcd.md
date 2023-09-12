@@ -2,13 +2,14 @@
 
 **Data:** 01/09/2023
 
-## Participantes:
+## Pauta
+- Apresentação [PIA](https://pia.paas.pr.gov.br/)
 
+## Participantes:
 - Banes
 - Gabriel
 
 ## Assuntos tratados
-
 - Demostração inteligência artificial do governo do Paraná - [PIA](https://pia.paas.pr.gov.br/)
     - IA generativa[^1].
     - Tentar um benchmark para entender como o sistema foi criado. Codigo está aberto?
@@ -30,15 +31,16 @@
     - Auxílio para automatização de processos internos como DETRAN.
     - Treinamentos Power Automate.
 
-## Ideias
+## Dúvidas
+- Nenhuma dúvida registrada
 
+## Ideias
 - Consulta pública para saber quais dos serviços presenciais oferecidos no [Portal MG](https://www.mg.gov.br/) devem ser priorizados para autosserviços.
 - Publicar dados abertos relatório de serviços ofertados no [Portal MG](https://www.mg.gov.br/) como forma de viabilizar a consulta pública.
 - Seria interessante implantar um piloto para atendimento com inteligência artifical na nova estrutura DETRAN?
     - Pode ser, mas o momento de transição pode exigir esperar mais um pouco.
 
-## Pendências
-
+## Ações
 - Tentar agendar benchmark governo Paraná.
 - Olhar como está o andamento RP 229/2023 (Itens 52 e 53) para saber qual ferramenta poderemos utilizar para criar nossos protótipos utilizando IA.
 - Entender como os serviços UAI são ofertados.
