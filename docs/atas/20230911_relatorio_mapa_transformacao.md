@@ -43,9 +43,10 @@
 - Base de dados Portal MG é guardada pela PRODEMGE?
 
 ## Ideias
-- Conforme já registrado na [ata anterior](../20230911_apresentacao_augusta_cora/#ideias), podemos publicar a base de dados do Portal MG no PdA. Desta forma, não seria mais necessário gerar relatórios para alimentar [Mapa de Transformação](https://app.powerbi.com/view?r=eyJrIjoiNmQzZDMxZGMtNGM0OC00YWJmLWIxMjctMTM0OWJjMTAyZWNmIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9&pageName=ReportSection8b08997a641ffd25674f)[^1]. Para isso será necessário criar um processo ETL para atualizar diariamente o PdA.
+- Conforme já registrado na [ata anterior](../20230911_apresentacao_augusta_cora/#ideias), podemos publicar a base de dados do Portal MG no PdA[^2]. Desta forma, não seria mais necessário gerar relatórios para alimentar [Mapa de Transformação](https://app.powerbi.com/view?r=eyJrIjoiNmQzZDMxZGMtNGM0OC00YWJmLWIxMjctMTM0OWJjMTAyZWNmIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9&pageName=ReportSection8b08997a641ffd25674f)[^1]. Para isso será necessário criar um processo ETL para atualizar diariamente o PdA.
 
 ## Ações
 - Apresentar ideia de publicação de parte da base de dados do Portal MG para a diretoria.
 
 [^1]: Também disponível na página [Minas Atende](https://www.mg.gov.br/pagina/minas-atende) e anteriormente desenvolvido com a ferramenta [lookerstudio](https://lookerstudio.google.com/reporting/4c83d18e-b293-43a7-8707-d2e8834fcc0f/page/dB2dB).
+[^2]: Sugiro ainda iniciarmos apenas com um recorte do banco, como as tabelas de documentos e a tabela de serviços (com eventos).
