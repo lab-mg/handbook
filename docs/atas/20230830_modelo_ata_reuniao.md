@@ -7,7 +7,7 @@
 - Pauta 1
 - Pauta 2
 
-## Participantes:
+## Participantes
 - Participante 1
 - Participante 2
 

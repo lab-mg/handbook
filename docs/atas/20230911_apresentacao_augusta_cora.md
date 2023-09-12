@@ -5,7 +5,7 @@
 ## Pauta
 - Apresentação processo Mapa de Transformação
 
-## Participantes:
+## Participantes
 - Augusta Cora
 - Banes
 - Gabriel

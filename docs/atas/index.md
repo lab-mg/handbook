@@ -13,5 +13,5 @@ Ou, em [outras palavras](https://www.mprj.mp.br/inova/reunioes):
 
 ## Convenções.
 
-Os arquivos de atas de reunião devem ser nomeados no padrão `AAAAMMDD_assunto_reuniao.md` e devem seguir [esse template](../atas/20230830_modelo_ata_reuniao).
+- Os arquivos de atas de reunião devem ser nomeados no padrão `AAAAMMDD_assunto_reuniao.md` e devem seguir [esse template](../atas/20230830_modelo_ata_reuniao).
 Este arquivo deverá ser gerado e enviado antes da reunião para definição de pauta.

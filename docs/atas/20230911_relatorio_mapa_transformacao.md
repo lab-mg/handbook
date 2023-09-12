@@ -5,7 +5,7 @@
 ## Pauta
 - Aula processo geração Mapa de Transformação
 
-## Participantes:
+## Participantes
 - Augusta Cora
 - Gabriel
 

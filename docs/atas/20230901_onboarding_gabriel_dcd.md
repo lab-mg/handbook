@@ -5,7 +5,7 @@
 ## Pauta
 - Apresentação [PIA](https://pia.paas.pr.gov.br/)
 
-## Participantes:
+## Participantes
 - Banes
 - Gabriel
 
@@ -32,7 +32,7 @@
     - Treinamentos Power Automate.
 
 ## Dúvidas
-- Nenhuma dúvida registrada
+- Nenhuma dúvida registrada.
 
 ## Ideias
 - Consulta pública para saber quais dos serviços presenciais oferecidos no [Portal MG](https://www.mg.gov.br/) devem ser priorizados para autosserviços.
