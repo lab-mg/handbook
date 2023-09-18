@@ -2,3 +2,5 @@
 *[CAMG]: Cidade Administrativa do Estado de Minas Gerais
 *[ETL]: Extração, Transformação e Carga (Extract, transform, and load em inglês)
 *[PdA]: Portal de Dados Abertos
+*[DCD]: Diretoria Central de Desburocratização
+*[DCCD]: Diretoria Central de Canais Digitais
