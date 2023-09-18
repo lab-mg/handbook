@@ -1,4 +1,4 @@
-# Apresentacao do Mapa de Transformação Diretoria de Canais Digitais
+# Reunião Gerencia DCD - Semana 18 a 22 de Setembro
 
 **Data:** 18/09/2023
 
@@ -7,6 +7,7 @@
 - Pauta Gabriel:
     - Reunião Leyde e aprovação da ideia para inclusão de novo documento.
     - Sugestão reunião Damião - Tem já algo para mostrar?.
+    - [Sugestões para preparação de nossas reuniões](https://suges-mg.github.io/handbook/atas/).
     - Treinamento Power Automate.
     - [Mostrar Painel de Atividades e Reniões](https://github.com/orgs/suges-mg/projects/1/views/3).
 
