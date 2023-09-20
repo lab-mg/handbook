@@ -1,6 +1,6 @@
 # Reunião Gerencia DCD - Semana 18 a 22 de Setembro
 
-**Data:** 18/09/2023
+**Data:** 20/09/2023
 
 ## Pauta
 - Tempo estimado: 60 minutos.
