@@ -6,7 +6,7 @@
 - Tempo estimado: 60 minutos.
 - Pauta Gabriel:
     - Reunião Leyde e aprovação da ideia para inclusão de novo documento.
-    - Sugestão reunião Damião - Reunião da tarde.
+    - [Apresentação para reunião Damião e Diniz](https://suges-mg.github.io/reveal.js/presentations/20230918_fluxo_documentos_canais_digitais/index.html).
     - [Treinamento Power Automate](../20230919_treinamento_power_automate).
     - [Mostrar Painel de Atividades e Reniões](https://github.com/orgs/suges-mg/projects/1/views/3).
     - [Sugestões para preparação de nossas reuniões](https://suges-mg.github.io/handbook/atas/).
