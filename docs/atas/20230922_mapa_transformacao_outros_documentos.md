@@ -30,6 +30,7 @@
 - Sem ideias.
 
 ## Ações
+- [Anotações Bruno](https://cecad365.sharepoint.com/:p:/s/SCCA-DCAE-Canaiseletrnicos/EfFDyr-22ghBslxDNYRpFt0B0OF4Ua1-WwIrJ_EU568n8Q?e=4%3AnNDp9K&fromShare=true&at=9&CID=5fc7df9c-5ff6-b544-3db0-85e4320b0e2d).
 - Retirar botão "outros documentos" (Bruno).
 - Pensar novo texto de orientação (Gabriel).
 - Desenhar o fluxo completo (Gabriel).
