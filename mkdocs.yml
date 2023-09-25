@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 # Configuration
 theme:
   name: material
-  language: pt-BR
+  language: pt
   custom_dir: overrides
   features:
     # - announce.dismiss
@@ -104,3 +104,8 @@ plugins:
       enable_creation_date: true
   - search:
       lang: pt
+  - blog:
+      post_url_format: "{slug}"
+      archive: false
+      categories_toc: true
+      post_excerpt: required
