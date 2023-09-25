@@ -1,3 +1,8 @@
+---
+tags:
+  - Modelos
+---
+
 # Modelo Ata Reunião
 
 **Data:** DD/MM/20AA
