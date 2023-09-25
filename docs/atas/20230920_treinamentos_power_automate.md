@@ -1,3 +1,8 @@
+---
+tags:
+  - Automatizações
+---
+
 # Capacitações Power Automate
 
 **Data:** 20/09/2023

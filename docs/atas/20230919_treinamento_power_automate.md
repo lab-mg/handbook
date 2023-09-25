@@ -1,3 +1,8 @@
+---
+tags:
+  - Automatizações
+---
+
 # Treinamento Power Automate
 
 **Data:** 19/09/2023

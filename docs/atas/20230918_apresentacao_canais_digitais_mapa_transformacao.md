@@ -1,3 +1,8 @@
+---
+tags:
+  - Mapa de transformação
+---
+
 # Apresentacao do Mapa de Transformação Diretoria de Canais Digitais
 
 **Data:** 18/09/2023

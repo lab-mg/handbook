@@ -1,3 +1,8 @@
+---
+tags:
+  - Mapa de transformação
+---
+
 # Dúvidas Mapa de Transformação - Cadastro Novos Documentos
 
 **Data:** 18/09/2023

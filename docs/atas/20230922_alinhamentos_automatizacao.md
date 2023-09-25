@@ -1,3 +1,8 @@
+---
+tags:
+  - Automatizações
+---
+
 # Alinhamentos métricas processo automatização
 
 **Data:** 22/09/2023

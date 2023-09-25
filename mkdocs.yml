@@ -109,3 +109,5 @@ plugins:
       archive: false
       categories_toc: true
       post_excerpt: required
+  - tags:
+      tags_file: tags.md
