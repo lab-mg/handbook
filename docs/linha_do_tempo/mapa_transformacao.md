@@ -10,18 +10,22 @@ Documentos relacionados ao projeto, como atas de reunião e apresentações, sã
 
 Todas as ações desenvolvidas e planejadas podem ser acompanhadas neste [GitHub Project Board](https://github.com/orgs/suges-mg/projects/1/views/6).
 
-```mermaid
-timeline
-    title Geral
-    Setembro 2023 : Início do projeto
-                  : Formalização pedido acesso banco Portal MG
-                  : Inicio revisão lista de outros documentos
-    Outubro 2023
-```
+## Visão Geral
 
 ```mermaid
 timeline
-    title Detalhado - Setembro 2023
+    title Ano 2023
+    Setembro : Início do projeto
+             : Formalização pedido acesso banco Portal MG
+             : Inicio revisão lista de outros documentos
+    Outubro  : Não iniciado
+```
+
+# Visão Detalhada
+
+```mermaid
+timeline
+    title Setembro 2023
     11/09 a 15/09 : Início do projeto
                   : Reuniões entendimento do fluxo DCD
     18/09 a 22/09 : Reuniões entendimento do fluxo DCCD
