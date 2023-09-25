@@ -12,7 +12,7 @@
 - Leyde
 
 ## Assuntos tratados
-- Gabriel inicio comentando a reunião com [Diniz e Damião](../atas/20230918_apresentacao_canais_digitais_mapa_transformacao.md).
+- Gabriel inicio comentando a reunião com [Diniz e Damião](../20230918_apresentacao_canais_digitais_mapa_transformacao).
 - Gabriel contextualizou porque da retirada do botão e principalmente, com isso, conseguir realizar o cadastro/análise dos documentos emitidos pelo estado.
 - Bruno demonstrou todo processo de cadastro de documentos dentro de eventos.
 - Bruno explicou que a retirada do botão e a inclusão de novo texto deverá ser enviada para PRODEMGE.
