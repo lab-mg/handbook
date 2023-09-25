@@ -1,5 +1,13 @@
 # Linha do Tempo Processo Mapa de Transformação
 
+Ações de automatização do [Mapa de Transformação](https://app.powerbi.com/view?r=eyJrIjoiNmQzZDMxZGMtNGM0OC00YWJmLWIxMjctMTM0OWJjMTAyZWNmIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9&pageName=ReportSection8b08997a641ffd25674f) realizadas em conjunto entre DCD e DCCD.
+Visa, principalmente:
+
+- Automatizar todo processo de ETL necessário para construção do mapa.
+- Publicar em formato aberto[^1] base de dados dos serviços prestados e cadastrados no Portal MG.
+
+Todas as ações do projeto podem ser acompanhadas neste [GitHub Project Board](https://github.com/orgs/suges-mg/projects/1/views/6).
+
 ```mermaid
 timeline
     title Geral
@@ -20,3 +28,4 @@ timeline
     25/09 a 29/09 : Formalização pedido acesso banco Portal MG
                   : Inicio revisão lista de outros documentos
 ```
+[^1]: Exigência [§6º Art. 7º Lei 13.460](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13460.htm#:~:text=%C2%A7%206%C2%BA-,Compete,-a%20cada%20ente).
