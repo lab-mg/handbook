@@ -77,10 +77,10 @@ markdown_extensions:
 
 extra_css:
   - assets/style.css
-  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.css
+  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.css
 extra_javascript:
   - assets/style.js
-  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
+  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.min.js
 
 extra: # Footer
   social:
