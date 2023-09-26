@@ -26,7 +26,7 @@ tags:
 - Bruno mostrou análise dos documentos cadastrados como outros atualmente. São mais de 500. Teremos que realizar esta revisão aos poucos para acabar com o cadastro deste campo.
     - Vamos incluir 2 campos nesta planilha. Um para qual o estratégia de revisão e outro para se nos reuniremos com órgão antes de efetivar a mudança ou vamos só comunicar a mudança.
     - Incluir uma aba na planilha para criar o link p serviço (node)
-- Bruno criou uma [pasta na rede]
+- Bruno criou uma pasta na rede para arquivar documentos que forem sendo criados ao longo do trabalho.
 
 ## Dúvidas
 - Sem dúvidas.
