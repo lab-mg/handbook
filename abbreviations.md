@@ -4,3 +4,4 @@
 *[PdA]: Portal de Dados Abertos
 *[DCD]: Diretoria Central de Desburocratização
 *[DCCD]: Diretoria Central de Canais Digitais
+*[CAMG]: Cidade Adminsitrativa do Estado de Minas Gerais

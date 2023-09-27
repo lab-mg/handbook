@@ -59,7 +59,11 @@ markdown_extensions:
   - pymdownx.emoji  # Emojis
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
   - md_in_html
   - toc:
       permalink: ⚓︎
