@@ -1,4 +1,5 @@
 ---
+comments: true
 tags:
   - Mapa de transformação
 ---

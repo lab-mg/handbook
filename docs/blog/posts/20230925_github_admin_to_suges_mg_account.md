@@ -1,6 +1,7 @@
 ---
 date: 2023-09-25
 authors: [gabrielbdornas]
+comments: true
 categories:
   - DCD
 ---

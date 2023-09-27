@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Linha do tempo
 
 Desenho de linhas do tempo[^1] dos projetos desenvolvidos nesta organização visando simplificar o trabalho dos gestores no momento de contar a história do andamento do projeto.
