@@ -1,3 +1,8 @@
+---
+tags:
+  - Rotina
+---
+
 # Onboarding Gabriel Dornas DCD
 
 **Data:** 01/09/2023

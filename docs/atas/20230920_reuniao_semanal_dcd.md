@@ -1,3 +1,8 @@
+---
+tags:
+  - Rotina
+---
+
 # Reunião Gerencia DCD - Semana 18 a 22 de Setembro
 
 **Data:** 20/09/2023

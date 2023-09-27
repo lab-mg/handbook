@@ -1,6 +1,6 @@
 ---
 tags:
-  - Automatizações
+  - Automatizações - Treinamentos
 ---
 
 # Capacitações Power Automate
