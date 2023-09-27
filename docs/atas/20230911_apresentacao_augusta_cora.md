@@ -6,7 +6,7 @@ tags:
 
 # Apresentação Cora e Mapa de Transformação
 
-**Data:** 11/09/2023
+- **Data:** 11/09/2023
 
 ## Pauta
 - Apresentação processo Mapa de Transformação

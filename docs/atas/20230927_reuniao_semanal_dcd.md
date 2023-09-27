@@ -6,7 +6,7 @@ tags:
 
 # Reunião Gerencia DCD - Semanal 25 a 29 de Setembro
 
-**Data:** 27/09/2023
+- **Data:** 27/09/2023
 
 ## Pauta
 - Sem pauta.

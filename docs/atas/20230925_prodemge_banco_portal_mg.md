@@ -6,7 +6,7 @@ tags:
 
 # Acesso ao banco de dados do Portal MG - PRODEMGE
 
-**Data:** 25/09/2023
+- **Data:** 25/09/2023
 
 ## Pauta
 - Acesso ao banco de dados do Portal MG.

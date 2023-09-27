@@ -6,7 +6,7 @@ tags:
 
 # Apresentação Melhorias Mapa de Transformação DCCD
 
-**Data:** 18/09/2023
+- **Data:** 18/09/2023
 
 ## Pauta
 - Acesso ao banco de dados do Portal MG.

@@ -6,7 +6,7 @@ tags:
 
 # Acompanhamento açõs fluxo de cadastro outros documentos
 
-**Data:** 29/09/2023
+- **Data:** 29/09/2023
 
 ## Pauta
 - Acompanhamento ações do projeto:

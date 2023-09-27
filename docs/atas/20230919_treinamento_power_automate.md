@@ -6,7 +6,7 @@ tags:
 
 # Treinamento Power Automate
 
-**Data:** 19/09/2023
+- **Data:** 19/09/2023
 
 ## Pauta
 - Tempo estimado: 90 minutos.

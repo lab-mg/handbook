@@ -6,7 +6,7 @@ tags:
 
 # Apresentação como construir documentações impressionantes
 
-**Data:** XX/XX/20XX
+- **Data:** XX/XX/20XX
 
 ## Pauta
 - Apresentação filosofia docs as code mão na massa.

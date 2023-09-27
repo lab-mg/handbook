@@ -6,7 +6,7 @@ tags:
 
 # Capacitações Power Automate
 
-**Data:** 20/09/2023
+- **Data:** 20/09/2023
 
 ## Pauta
 - Tempo estimado: 60 minutos.

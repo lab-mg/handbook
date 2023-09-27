@@ -6,7 +6,7 @@ tags:
 
 # Apresentacao do Mapa de Transformação Diretoria de Canais Digitais
 
-**Data:** 18/09/2023
+- **Data:** 18/09/2023
 
 ## Pauta
 - Tempo estimado: 60 minutos.

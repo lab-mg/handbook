@@ -6,7 +6,7 @@ tags:
 
 # Onboarding Gabriel Dornas DCD
 
-**Data:** 01/09/2023
+- **Data:** 01/09/2023
 
 ## Pauta
 - Apresentação [PIA](https://pia.paas.pr.gov.br/)

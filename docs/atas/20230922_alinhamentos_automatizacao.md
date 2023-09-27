@@ -6,7 +6,7 @@ tags:
 
 # Alinhamentos métricas processo automatização
 
-**Data:** 22/09/2023
+- **Data:** 22/09/2023
 
 ## Pauta
 - Gabriel e Lucas mostrarem métricas processo automatização:

@@ -6,7 +6,7 @@ tags:
 
 # Fluxo de cadastro outros documentos
 
-**Data:** 23/09/2023
+- **Data:** 23/09/2023
 
 ## Pauta
 - Discussão sobre a retirada do botão "outros documentos" no cadastro de novos serviços.

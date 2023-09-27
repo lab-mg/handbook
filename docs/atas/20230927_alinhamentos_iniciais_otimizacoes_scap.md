@@ -6,7 +6,7 @@ tags:
 
 # Alinhamentos Iniciais Otimizações SCAP
 
-**Data:** 27/09/2023
+- **Data:** 27/09/2023
 
 ## Pauta
 - Sem pauta.

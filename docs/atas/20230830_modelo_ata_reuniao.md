@@ -6,7 +6,7 @@ tags:
 
 # Modelo Ata Reunião
 
-**Data:** DD/MM/20AA
+- **Data:** DD/MM/20AA
 
 ## Pauta
 - Tempo estimado: em minutos

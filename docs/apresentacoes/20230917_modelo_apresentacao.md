@@ -6,7 +6,7 @@ tags:
 
 # Modelo Apresentação
 
-**Data:** XX/XX/20XX
+- **Data:** XX/XX/20XX
 
 ## Pauta
 - Acesso ao banco de dados do Portal MG.
