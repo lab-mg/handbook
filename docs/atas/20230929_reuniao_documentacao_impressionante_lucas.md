@@ -32,4 +32,5 @@ tags:
 - Sem ideias.
 
 ## Ações
-- Sem ações.
+- Elaborar proposta página robôs e métricas.
+- Conversar intendência para buscar relatórios.
