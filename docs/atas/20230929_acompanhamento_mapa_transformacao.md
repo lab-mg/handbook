@@ -23,15 +23,14 @@ tags:
 ## Participantes
 - Gabriel
 - Bruno
-- Polyana
 - Leyde
 
 ## Assuntos tratados
-- Novo fluxo cadastro documento
+- Gabriel apresentou fluxo desenhado:
 
 ```mermaid
 flowchart TD
-    1(Cadastro Evento)-->3
+    1(Cadastro Etapa)-->3
     3{Incluir documento?}
     3-->|Não|3.1
     3.1(Continua cadastro)
@@ -66,6 +65,27 @@ flowchart TD
 
 ```
 
+- Bruno e Leyde gostaram da [Planilha preparada para o trabalho](https://cecad365.sharepoint.com/:x:/s/SCCA-DCAE-Canaiseletrnicos/ESNLHigw6WVJq1DG2Bucl38B20w4nSn5JSK4qV7l2GJ-OQ?e=97eBG9).
+- Bruno reforçou no fluxo a necessidade da análise se o documento já está cadastrado e das orientações que daremos aos órgãos neste sentido.
+- Bruno reforçou no fluxo a necessidade da análise da linguagem simples para os serviços e etapas cadastradas.
+- Bruno informou que retirada do botão "Outros documentos já está no backlog e irá conferir na próxima segunda se será possível incluir na sprint corrente.
+- Gabriel [enviou informações necessárias](https://github.com/suges-mg/handbook/issues/36) para cadastro painel Admin Portal MG (inclusive ambiente de homologação).
+- Leyde enviou lista de órgãos que já foram capacitados:
+
+| Hemominas e ARSAE          | 24/out     |
+|----------------------------|------------|
+| SEF e JUCEMG               | 10/nov     |
+| SEE, CEE, UEMG e UNIMONTES | 28/nov     |
+| Detran, PCMMG, DER         | 30/nov     |
+| Semad, IEF, Igam, Sisema   | 09/dez     |
+| Seinfra/Faop               | 12/dez     |
+| Segov/Sede                 | 13/dez     |
+| Scult/Codemge/Cemig/Segov  | 12/09/2023 |
+
+- Para estes listados acima faremos uma capacitação a parte.
+- Leyde irá encaminhar na Segunda-feira cartilha da capacitação que que Gabriel revise a parte do novo fluxo.
+- Gabriel deverá enviar texto de orientação que será incluído com retirada do botão.
+
 ## Dúvidas
 - Incluir dúvidas.
 
@@ -73,4 +93,7 @@ flowchart TD
 - Incluir ideias.
 
 ## Ações
-- Incluir ações.
+- Enviar texto de orientação (Gabriel).
+- Para próxima reunião:
+    - Conferir se foi possível incluir na sprint retirada do Botão.
+    - Conferir se acesso ao banco foi liberado.
