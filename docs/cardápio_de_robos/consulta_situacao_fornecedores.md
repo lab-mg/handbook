@@ -1,0 +1,20 @@
+---
+comments: true
+tags:
+  - Robôs
+  - Robôs - Compras
+---
+
+# Consulta Situação Cadastral de Fornecedores
+
+O robô para consulta de situação cadastral de fornecedores foi desenvolvido com a ferramenta Microsoft Power Automate e pode auxiliar na automação de tarefas relacionadas à gestão de compras e fornecedores.
+Em linhas gerais ele é capaz de:
+
+- Ler uma planilha, em formato Excel, contendo CNPJs de fornecedores.
+- Consultar a situação cadastral desses fornecedores em diversos sites governamentais.
+- Atualizar a situação cadastral desses fornecedores na mesma planilha Excel aberta no início do processo, determinando se eles estão impedidos ou não de participar de licitações com a administração pública.
+- Salvar documentos (imagens e pdfs) que comprovem a consulta.
+
+Essa automação oferece um processo eficiente de atualização da lista de fornecedores, economizando tempo em processos de compras e gestão de contratos.
+
+![type:video](https://cecad365.sharepoint.com/sites/LAB.mg/_layouts/15/embed.aspx?UniqueId=4a028dcd-334c-4156-b350-adaedeb4677f&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A0%7D%7D&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Automatização consulta empresas 1.3x.mp4)
