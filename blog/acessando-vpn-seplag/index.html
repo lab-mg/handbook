@@ -1262,7 +1262,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7h1.5Z"/></svg>
                     <span class="md-ellipsis">
                       
-                        1 min de leitura
+                        2 min de leitura
                       
                     </span>
                   </div>
@@ -1288,9 +1288,8 @@ Os tutoriais utilizados estavam, na maioria dos casos, voltados para utilizaçã
 Como este não era meu caso, faço este registro para instalação e utilização em sistemas operacionais Linux<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
 <!-- more -->
 
-<p>O primeiro passo sugerido no manual oficial (solicitar este pdf para equipe da <a href="https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico">DDT</a>) é a instalação do programa <a href="https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi">Virtual Machine Viewer</a>, que não possível de ser realizado no Linux.</p>
-<p>Próximo passo solicita entrar <a href="link abaixo:
-https://stsad.prodemge.gov.br/vpn/PROD_SEPLAG_VDI/vpn-n2.html">neste link</a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.
+<p>O primeiro passo sugerido no manual oficial (solicitar este pdf para equipe da <a href="https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico">DDT</a>) é a instalação do programa <a href="https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi">Virtual Machine Viewer</a>, que no Linux realizei via <code>sudo apt install virt-viewer</code>.</p>
+<p>Próximo passo solicita entrar <a href="https://stsad.prodemge.gov.br/vpn/PROD_SEPLAG_VDI/vpn-n2.html">neste link</a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.
 Após autenticação será possível acessar o manual de <a href="https://stsad.prodemge.gov.br/vpn/Manual-OpenVPN-Linux.pdf">instalação</a> da ferramenta OpenVPN e os arquivos necessários para seu funcionamento.
 Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
 <div class="language-py highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="n">vpn</span><span class="o">=</span><span class="s1">&#39;cd /home/&lt;user&gt;/vpnserver-UDP4-1237-User-1237/ </span><span class="se">\</span>
@@ -1299,6 +1298,7 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
 <ol>
 <li><img alt="🙋‍♂️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f64b-200d-2642-fe0f.svg" title=":man_raising_hand:" /> Os arquivos baixados foram salvos em uma pasta dentro de meu usuário e o comando de acionamento da VPN incluído posteriormente à mudança para este diretório.</li>
 </ol>
+<p>VPN no ar, entrar <a href="https://vdi.prodemge.gov.br/ovirt-engine">neste link</a> e clique no Portal da VM"<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>. Clique em "Console SPICE" e no arquivo que será baixado. Realize o último login e a máquina será acessada.</p>
 <div class="footnote">
 <hr />
 <ol>
@@ -1308,6 +1308,9 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
 <li id="fn:2">
 <p>Será solicitado login e senha da rede SEPLAG.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
 </li>
+<li id="fn:3">
+<p>Usuário no padrão <code>usuario@ca.mg.gov.br</code>.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
 </ol>
 </div>
 
@@ -1316,7 +1319,7 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
   <small>
     
       Última atualização:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-datetime">September 27, 2023 17:02:25</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-datetime">October 2, 2023 17:36:58</span>
       
         <br>
         Criada:
