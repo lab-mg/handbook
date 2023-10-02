@@ -14,10 +14,9 @@ Como este não era meu caso, faço este registro para instalação e utilizaçã
 
 <!-- more -->
 
-O primeiro passo sugerido no manual oficial (solicitar este pdf para equipe da [DDT](https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico)) é a instalação do programa [Virtual Machine Viewer](https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi), que não possível de ser realizado no Linux.
+O primeiro passo sugerido no manual oficial (solicitar este pdf para equipe da [DDT](https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico)) é a instalação do programa [Virtual Machine Viewer](https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi), que no Linux realizei via `sudo apt install virt-viewer`.
 
-Próximo passo solicita entrar [neste link](link abaixo:
-https://stsad.prodemge.gov.br/vpn/PROD_SEPLAG_VDI/vpn-n2.html)[^2].
+Próximo passo solicita entrar [neste link](https://stsad.prodemge.gov.br/vpn/PROD_SEPLAG_VDI/vpn-n2.html)[^2].
 Após autenticação será possível acessar o manual de [instalação](https://stsad.prodemge.gov.br/vpn/Manual-OpenVPN-Linux.pdf) da ferramenta OpenVPN e os arquivos necessários para seu funcionamento.
 Para facilitar a ligação da VPN eu criei o seguinte alias:
 
@@ -28,6 +27,8 @@ vpn='cd /home/<user>/vpnserver-UDP4-1237-User-1237/ \
 
 1. :man_raising_hand: Os arquivos baixados foram salvos em uma pasta dentro de meu usuário e o comando de acionamento da VPN incluído posteriormente à mudança para este diretório.
 
+VPN no ar, entrar [neste link](https://vdi.prodemge.gov.br/ovirt-engine) e clique no Portal da VM"[^3]. Clique em "Console SPICE" e no arquivo que será baixado. Realize o último login e a máquina será acessada.
 
 [^1]: Distribuição [Pop!_OS](https://pop.system76.com/).
 [^2]: Será solicitado login e senha da rede SEPLAG.
+[^3]: Usuário no padrão `usuario@ca.mg.gov.br`.
