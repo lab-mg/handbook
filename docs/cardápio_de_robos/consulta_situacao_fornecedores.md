@@ -17,4 +17,33 @@ Em linhas gerais ele é capaz de:
 
 Essa automação oferece um processo eficiente de atualização da lista de fornecedores, economizando tempo em processos de compras e gestão de contratos.
 
+## Robô em funcionamento
+
 ![type:video](https://cecad365.sharepoint.com/sites/LAB.mg/_layouts/15/embed.aspx?UniqueId=4a028dcd-334c-4156-b350-adaedeb4677f&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A0%7D%7D&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Automatização consulta empresas 1.3x.mp4)
+
+## Montando o meu robô
+
+Este robô está armazenado no [GitHub](). Para dar vida ao seu, basta utilizar o código da caixinha "copiar e colar" abaixo.
+Não se esqueça de personalizar seu novo colega de trabalho trocando as variáveis de ambiente, conforme orientado abaixo.
+
+??? copy "copiar e colar"
+
+        python
+        --8<-- "https://raw.githubusercontent.com/transparencia-mg/dpckan/main/dpckan/cli.py"
+
+Após copiar e colar o código em um novo fluxo no Power Automate, realize as seguintes adaptações para que seu robô começe a te ajudar:
+
+  - Modificação 1.
+  - Modificação 2.
+  - Modificação 3.
+
+!!! failure "Precisando de ajuda?"
+
+    Algum erro está ocorrendo em uma das fazes de criação de seu robô?
+    Não tem problema.
+    Abaixo temos um espaço para perguntas e respostas.
+    Dá uma olhadinha lá.
+    Quem sabe alguém já não fez uma pergunta com o mesmo problema que você está enfrentando.
+    Caso prefira mande um e-mail para [escolher-email@dominio.com]().
+
+    Ótimo trabalho!

@@ -50,6 +50,8 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+    admonition:
+      copy: octicons/copy-24
 
 markdown_extensions:
   - abbr
@@ -59,6 +61,8 @@ markdown_extensions:
   - pymdownx.emoji  # Emojis
   - pymdownx.mark
   - pymdownx.tilde
+  - admonition
+  - pymdownx.details
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -76,6 +80,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets:
+      url_download: true
       auto_append:
         - abbreviations.md
 
