@@ -12,7 +12,7 @@ Visa, principalmente:
 - Automatizar todo processo de ETL necessário para construção do mapa.
 - Publicar em formato aberto[^1] base de dados dos serviços prestados e cadastrados no Portal MG.
 
-Documentos relacionados ao projeto, como atas de reunião e apresentações, são organizados pela tag [Mapa de transformação](../../tags#mapa-de-transformacao).
+Documentos relacionados ao projeto, como atas de reunião e apresentações, são organizados pela tag [Mapa de transformação](../../tags/#mapa-de-transformacao).
 
 Todas as ações desenvolvidas e planejadas podem ser acompanhadas neste [GitHub Project Board](https://github.com/orgs/suges-mg/projects/1/views/6).
 
