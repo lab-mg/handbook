@@ -4,7 +4,7 @@ tags:
   - Automatizações - Treinamentos
 ---
 
-# Reunião Documentação Impressionante Lucas
+# Reunião Documentações Impressionantes Lucas
 
 - **Data:** 29/09/2023
 
