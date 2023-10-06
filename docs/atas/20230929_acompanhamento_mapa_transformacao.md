@@ -93,7 +93,8 @@ flowchart TD
 - Incluir ideias.
 
 ## Ações
-- Enviar texto de orientação (Gabriel).
+- [Revisão documento treinamento](https://github.com/lab-mg/handbook/issues/44) finalizada em 06/10/2023.
+- Enviar texto de orientação (Gabriel) - [Texto enviado em 05/10/2023](https://github.com/lab-mg/handbook/issues/37#issuecomment-1750925109).
 - Para próxima reunião:
-    - Conferir se foi possível incluir na sprint retirada do Botão.
-    - Conferir se acesso ao banco foi liberado.
+    - Conferir se foi possível incluir na sprint retirada do Botão - Bruno informou em 05/10/2023 que foi incluído.
+    - Conferir se acesso ao banco foi liberado - até 06/10/2023 não devido falta de ip VPN Gabriel.
