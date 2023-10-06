@@ -15,7 +15,7 @@ tags:
 
 ## Documentos
 
-- [Apresentação criada para o encontro](https://suges-mg.github.io/reveal.js/presentations/20230926_docs_as_code/index.html).
+- [Apresentação criada para o encontro](https://lab-mg.github.io/reveal.js/presentations/20230926_docs_as_code/index.html).
 - [Post criado para o encontro](https://lab-mg.github.io/handbook/blog/criando-documentacoes-incriveis/).
 
 [^1]: Usuários Windows poderão fazer o download do [Git for Windows](https://gitforwindows.org/).
