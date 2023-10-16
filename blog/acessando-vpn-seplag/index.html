@@ -1238,6 +1238,28 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vpn-virtual" class="md-nav__link">
+    VPN virtual
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vpn-fisica" class="md-nav__link">
+    VPN física
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1334,6 +1356,7 @@ Os tutoriais utilizados estavam, na maioria dos casos, voltados para utilizaçã
 Como este não era meu caso, faço este registro para instalação e utilização em sistemas operacionais Linux<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
 <!-- more -->
 
+<h2 id="vpn-virtual">VPN virtual<a class="headerlink" href="#vpn-virtual" title="Permanent link">⚓︎</a></h2>
 <p>O primeiro passo sugerido no manual oficial (solicitar este pdf para equipe da <a href="https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico">DDT</a>) é a instalação do programa <a href="https://releases.pagure.org/virt-viewer/virt-viewer-x64-11.0-1.0.msi">Virtual Machine Viewer</a>, que no Linux realizei via <code>sudo apt install virt-viewer</code>.</p>
 <p>Próximo passo solicita entrar <a href="https://stsad.prodemge.gov.br/vpn/PROD_SEPLAG_VDI/vpn-n2.html">neste link</a><sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.
 Após autenticação será possível acessar o manual de <a href="https://stsad.prodemge.gov.br/vpn/Manual-OpenVPN-Linux.pdf">instalação</a> da ferramenta OpenVPN e os arquivos necessários para seu funcionamento.
@@ -1345,6 +1368,21 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
 <li><img alt="🙋‍♂️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f64b-200d-2642-fe0f.svg" title=":man_raising_hand:" /> Os arquivos baixados foram salvos em uma pasta dentro de meu usuário e o comando de acionamento da VPN incluído posteriormente à mudança para este diretório.</li>
 </ol>
 <p>VPN no ar, entrar <a href="https://vdi.prodemge.gov.br/ovirt-engine">neste link</a> e clique no Portal da VM"<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>. Clique em "Console SPICE" e no arquivo que será baixado. Realize o último login e a máquina será acessada.</p>
+<h2 id="vpn-fisica">VPN física<a class="headerlink" href="#vpn-fisica" title="Permanent link">⚓︎</a></h2>
+<p>O primeiro passo sugerido no manual oficial (solicitar POP para equipe da <a href="https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico">DDT</a>) é a instalação dos programa Cisco AnyConnect<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> e Remmina.</p>
+<p>Após baixar o <a href="https://expressomgdrive.mg.gov.br/index.php/s/BfYpd62CLmNy2jX">arquivo</a> zipado para instalação do Cisco AnyConnect executar:</p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>cd ~/Downloads
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a>tar xvf anyconnect-linux64-4.9.06037-predeploy-k9.tar.gz
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a>cd anyconnect-linux64-4.9.06037/vpn
+</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a>sudo ./vpn_install.sh
+</span></code></pre></div>
+<p>Programa Cisco AnyConnect instalado basta acessar <code>seplag.ca.mg.gov.br</code> com as credenciais de rede<sup id="fnref2:4"><a class="footnote-ref" href="#fn:4">4</a></sup>.</p>
+<p>Para instalar Remmina execute:</p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>sudo apt-get update &amp;&amp; sudo apt-get upgrade
+</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>sudo apt-get install remmina remmina-plugin-rdp remmina-plugin-secret remmina-pluginspice
+</span></code></pre></div>
+<p>Com a VPN conectada via Cisco AnyConnect basta acessar a máquina utilizando o número da estação iniciado com <code>D</code>.</p>
+<p>Em caso de dúvidas, consultar também <a href="https://gist.github.com/gabrielbdornas/3e1455e0097879f56d58efca1368a3b0">este</a> tutorial.</p>
 <div class="footnote">
 <hr />
 <ol>
@@ -1357,6 +1395,9 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
 <li id="fn:3">
 <p>Usuário no padrão <code>usuario@ca.mg.gov.br</code>.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
 </li>
+<li id="fn:4">
+<p>Usuário com padrão <code>@ca.mg.gov.br</code>.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
 </ol>
 </div>
 
@@ -1365,7 +1406,7 @@ Para facilitar a ligação da VPN eu criei o seguinte alias:</p>
   <small>
     
       Última atualização:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-datetime">October 2, 2023 17:36:58</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-datetime">October 16, 2023 19:32:30</span>
       
         <br>
         Criada:
