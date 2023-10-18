@@ -30,13 +30,14 @@ tags:
 - Idéias já anotadas nas ações.
 
 ## Ações
-- Criar post sobre boas práticas para criação de tags.
-- Criar a opção navbar projetos (treinamentos e scap).
-- Incluir linha do tempo, nos moldes do realizado no [Mapa de transformações](https://lab-mg.github.io/handbook/linha_do_tempo/mapa_transformacao/).
-- Criar um item robôs no navbar e passar as tags para o index desta página.
+- Criar um item robôs no navbar e passar as tags para o index desta página (atual caixa de ferramentas).
 - Página index de robôs não terá o menu do lado esquerdo.
-- Incluir posts com dicas de excel.
 - Passar a usar a propriedade Nav para melhor configuração das opções da navbar:
     - Acentos.
     - Ordem.
     - Não mostrar todas as páginas.
+- Criar a opção navbar Projetos (treinamentos e scap).
+- Incluir linha do tempo, nos moldes do realizado no [Mapa de transformações](https://lab-mg.github.io/handbook/linha_do_tempo/mapa_transformacao/) para os projetos.
+- Incluir posts com dicas de excel.
+- Criação de dashboard para mostrar resultados e embedar na página inicial.
+- Criar post sobre boas práticas para criação de tags.
