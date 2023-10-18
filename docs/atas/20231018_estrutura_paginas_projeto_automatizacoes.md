@@ -17,14 +17,14 @@ tags:
 - Gabriel
 
 ## Assuntos tratados
-- Discussões gerais sobre o comportamento de cada página do site [Automatizações](https://lab-mg.github.io/automatizacoes/)
+- Discussões gerais sobre o comportamento de cada página do site [Automatizações](https://lab-mg.github.io/automatizacoes/).
 
 - Resolvemos trabalhar uma mesma página para automatizações treinamentos e scap.
 
 - André sugeriu mantermos o nome automatizações e inclusive criar alguns posts sobre trabalho no Excel.
 
 ## Dúvidas
-- Sem dúvidas
+- Sem dúvidas.
 
 ## Ideias
 - Idéias já anotadas nas ações.
@@ -35,7 +35,7 @@ tags:
 - Incluir linha do tempo, nos moldes do realizado no [Mapa de transformações](https://lab-mg.github.io/handbook/linha_do_tempo/mapa_transformacao/).
 - Criar um item robôs no navbar e passar as tags para o index desta página.
 - Página index de robôs não terá o menu do lado esquerdo.
-- Incluir posts com dicas de excel
+- Incluir posts com dicas de excel.
 - Passar a usar a propriedade Nav para melhor configuração das opções da navbar:
     - Acentos.
     - Ordem.
