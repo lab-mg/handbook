@@ -8,6 +8,10 @@ tags:
 
 - **Data:** 06/10/2023
 
+<div>
+  <iframe width="1280" height="720" src="https://youtu.be/H6O5PMAO4G8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Pauta
 - Apresentação filosofia docs as code mão na massa.
 - Alimentação repositório [automatizações](https://github.com/lab-mg/automatizacoes).
