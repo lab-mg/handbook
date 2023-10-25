@@ -6,7 +6,7 @@ tags:
 
 # Reunião gerencial
 
-- **Data:** 10/25/2023
+- **Data:** 25/10/2023
 
 ## Pauta
 - Discussão geral dos trabalhos DCD
@@ -20,15 +20,15 @@ tags:
 ## Assuntos tratados
 - Banes contou sobre reunião SEDESE e possíveis trabalhos nos serviços para jovens.
 - Utilização de APIs governo federal ainda este ano.
+- Banes irá pedir acesso de editor para atualizar o mapa.
 
 ## Dúvidas
-- Decisão 1
-- Decisão 2
+- Sem dúvidas.
 
 ## Ideias
-- Ideia 1
-- Ideia 2
+- Sem ideias.
 
 ## Ações
 - Encaminhar e-mail Diniz sobre as APIs para utilização interna.
 - Banes enviar cobrança para Vinícius máquinas Gabriel.
+- Marcar capacitação dia 16/11/2023 documentações incríveis.
