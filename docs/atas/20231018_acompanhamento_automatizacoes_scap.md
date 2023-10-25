@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - Automatizações SCAP
+  - Otimizações SCAP
 ---
 
 # Acompanhamento automatizações scap

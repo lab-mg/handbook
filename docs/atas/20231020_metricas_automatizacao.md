@@ -1,7 +1,7 @@
 ---
 comments: true
 tags:
-  - Modelos
+  - Automatizações - Treinamentos
 ---
 
 # Métricas automatizações - Microsoft

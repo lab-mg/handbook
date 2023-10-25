@@ -2,7 +2,7 @@
 comments: true
 tags:
   - Automatizações - Treinamentos
-  - Automatizações - SCAP
+  - Otimizações SCAP
 ---
 
 # Estrutura páginas projeto automatizações
