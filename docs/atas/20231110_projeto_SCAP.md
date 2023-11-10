@@ -20,7 +20,8 @@ tags:
  
 - Estratégias
   - Duplas ou individual;
-  - compartilhamento dos robôs: limites das informações contidas e esforço para compartilhar especificidades qeu não seriam escaláveis;
+  - compartilhamento dos robôs: limites das informações contidas e esforço para compartilhar especificidades qeu não seriam escaláveis
+    - exemplos dos robôs catalogados: [folha entidades](https://lab-mg.github.io/automatizacoes/robos/folha_bancos_entidades/#montando-o-seu-robo), [pensão alimentícia](https://lab-mg.github.io/automatizacoes/robos/pensao_alimenticia/#funcoes-desenvolvidas-pelo-robo);
   - compartilhamento do conhecimento: capacitação interna learning by doing X registro (blog site estático) 
 
 - Dificuldades do ambiente
