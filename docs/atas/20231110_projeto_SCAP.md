@@ -16,6 +16,7 @@ tags:
   - como medir impacto, percepção das pessoas (onde estamos e para onde vamos)
   - possibilidades de aprofundar a captação de indicadores e métricas do andamento e impacto do projeto (pessoas envolvidas, percentual dos processos, valor envolvido)
   - multiplicadores (identificação e responsabilidades)
+  - como evidenciar o que está sendo feito e o que se quer fazer? formatos pptx, github, etc
  
 - Estratégias
   - Duplas ou individual;
@@ -26,7 +27,8 @@ tags:
   - sem PA instalado (ex. robô pagamento guias judiciais);
   - PA logado com nome de outra pessoa;
   - uso adequado do excel (quadros em vez de tabelas);
-  - uso de relatórios não-estruturados da prodemge (tempo de atendimento) 
+  - uso de relatórios não-estruturados da prodemge (tempo de atendimento dos mantis - sem custo, mas 1 mês)
+  - uso do BO, mas sem universo SISAP?
 - Dificuldades técnicas com PA ou com inputs
   - páginas em que não se navega com teclas ou onde robô não reconhece imagem
   - baixar arquivos de páginas web
